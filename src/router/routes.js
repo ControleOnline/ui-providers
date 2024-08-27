@@ -9,7 +9,7 @@ export const routes = [
         component: () =>  import ('../pages/Provider/Index.vue')
       },
       {
-        name: 'ProvidersDetails',
+        name: 'ProviderDetails',
         path: 'id/:id',
         component: () =>  import ('../pages/Provider/Details.vue')
       },
