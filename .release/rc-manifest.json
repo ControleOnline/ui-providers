@@ -1,0 +1,20 @@
+{
+  "version": "1.0.29",
+  "rc": 1,
+  "branch": "rc/1.0.29-rc.1",
+  "baseMaster": "62b52156ccf50863e0da532f6722222d51517867",
+  "baseTag": "v1.0.28",
+  "tasks": [
+    1761
+  ],
+  "taskRepository": "ControleOnline/app-community",
+  "frozen": true,
+  "repositories": {
+    "ControleOnline/ui-providers": "83a01d851de78f5e19f61303afd7c0b7fe6e40fc"
+  },
+  "sources": {
+    "versão de produção v1.0.28": "b3f4aad73699915c98b6e82d647547efd237deb6",
+    "staging": "7ee242fb8297cd3cfda9e0327a735e4754c62aac",
+    "dev": "0bfdbf0a49cc728344538543cbb67780b2cec22a"
+  }
+}
